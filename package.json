@@ -1,0 +1,27 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "This is theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "Ebru Davutoglu"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebrudavutoglu/gulp4.0new.git"
+  },
+  "keywords": [
+    "Gulp",
+    "New",
+    "4.0"
+  ],
+  "author": "Ebru Davutoglu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ebrudavutoglu/gulp4.0new/issues"
+  },
+  "homepage": "https://github.com/ebrudavutoglu/gulp4.0new#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}
